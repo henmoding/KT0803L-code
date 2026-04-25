@@ -8,6 +8,18 @@ Ein einfaches Projekt, um mit einem ESP32 (auch ESP32-C3) einen **FM-Sender** mi
 
 ---
 
+## 🛒 Bezugsquelle
+
+Du kannst das verwendete Modul hier kaufen:
+
+👉 [KT0803L FM Transmitter Modul auf eBay](https://www.ebay.de/itm/406215067142)
+
+Typische Bezeichnung:
+- „FM Transmitter Modul 87–108 MHz“
+- „KT0803L Audio Sender Board“
+
+---
+
 ## 🔧 Hardware
 
 - ESP32 / ESP32-C3 Super Mini
@@ -33,10 +45,10 @@ Ein einfaches Projekt, um mit einem ESP32 (auch ESP32-C3) einen **FM-Sender** mi
 
 ## 🚀 Features
 
-- Frequenzbereich: 70–108 MHz
-- Einstellbare Sendeleistung
-- Stereo-Unterstützung möglich
-- Sehr geringer Stromverbrauch
+- Frequenzbereich: 70–108 MHz  
+- Einstellbare Sendeleistung  
+- Stereo-Unterstützung möglich  
+- Sehr geringer Stromverbrauch  
 
 ---
 
